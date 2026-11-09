@@ -1,0 +1,12 @@
+{
+  "libraries": [],
+  "scripts": [
+    {
+      "name": "Bookkor (북코)",
+      "version": 1,
+      "lang": "kr",
+      "path": "Bookkor.ts"
+    }
+  ],
+  "styles": []
+}
